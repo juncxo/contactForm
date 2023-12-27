@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  input,
+  textarea,
+  button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  button {
+    background-color: #1971cf;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #response {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+  }
